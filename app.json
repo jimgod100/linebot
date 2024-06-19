@@ -16,8 +16,8 @@
     }
   ],
   "env": {
-    "OPENAI_API_KEY": {
-      "description": "OpenAI Access Token",
+    "GOOGLE_API_KEY": {
+      "description": "GOOGLE Access Token",
       "required": true
     },
     "ChannelAccessToken": {
